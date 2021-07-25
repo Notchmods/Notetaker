@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Note creator\Note creator\bin\Debug\Note creator.exe.config
+C:\Users\User\source\repos\Note creator\Note creator\bin\Debug\Note creator.exe
+C:\Users\User\source\repos\Note creator\Note creator\bin\Debug\Note creator.pdb
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note creator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note_creator.Form1.resources
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note_creator.Properties.Resources.resources
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note creator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note creator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note creator.exe
+C:\Users\User\source\repos\Note creator\Note creator\obj\Debug\Note creator.pdb
